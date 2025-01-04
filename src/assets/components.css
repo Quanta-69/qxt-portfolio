@@ -1,0 +1,57 @@
+
+section{
+    min-height: 70vh;
+    @apply border-b border-gray-600 flex items-center justify-center flex-wrap gap-8 py-10
+}
+section:nth-child(odd){
+    background: #000328;
+}
+section:nth-child(even){
+    background: var(--gradient);
+}
+
+.container{
+    @apply flex items-center justify-center gap-6 flex-col w-full sm:items-start
+}
+
+.sect-name{
+    @apply uppercase font-semibold text-xl text-slate-300
+}
+.sect-intro{
+    @apply text-4xl font-semibold max-w-screen-lg text-white text-center sm:text-left sm:text-5xl
+}
+.txt{
+    @apply max-w-screen-lg
+}
+.cards{
+    @apply flex items-center justify-center gap-6 w-full flex-wrap py-6 sm:justify-start
+}
+.card{
+    @apply flex flex-col items-start justify-center w-full p-4 gap-2 shadow-lg
+}
+p{
+    @apply text-base
+}
+.svg{
+    svg{
+        @apply h-full w-full
+    }
+    @apply p-2 bg-white shadow-lg h-12 w-12 rounded-xl bg-white
+}
+.btn-wrap{
+    @apply flex items-center justify-center w-full gap-4
+}
+button{
+    transition: .3s;
+    @apply shadow-lg py-3 px-8  text-white rounded-lg text-base font-medium
+}
+
+.outro{
+    h1{
+        @apply font-medium text-4xl text-center
+    }
+    button{
+        @apply bg-white text-black uppercase
+    }
+    @apply w-full flex items-center justify-center flex-col p-4 gap-6
+}

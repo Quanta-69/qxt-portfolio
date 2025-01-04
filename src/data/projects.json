@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "img":"../images/dannydigital.png",
+        "title":"Danny Digital",
+        "description":"The oldest project I have that still competes with modern UI",
+        "link":"https://dannydigital.vercel.app"
+    },
+    {
+        "id":2,
+        "img":"../images/peacefulpink.png",
+        "title":"Peaceful Pink",
+        "description":"Another very old project made with bootstrap that matches current UI",
+        "link":"https://peaceful-pink.vercel.app"
+    },
+    {
+        "id":3,
+        "img":"../images/sdg.png",
+        "title":"Shutdown Gang",
+        "description":"Although contains minor issues, its animations are unmatched to this day",
+        "link":"https://shutdown-neon.vercel.app"
+    },
+    {
+        "id":4,
+        "img":"../images/gemstone.png",
+        "title":"Gemstone Sites",
+        "description":"Initially just a test program, it stands as one of my most iconic websites",
+        "link":"https://gemstone-sites.vercel.app"
+    },
+    {
+        "id":5,
+        "img":"../images/nosa.png",
+        "title":"NOSA Logistics",
+        "description":"Made with pure HTML and CSS, it still competes with modern UI",
+        "link":"https://nosa-logistics.vercel.app"
+    },
+    {
+        "id":6,
+        "img":"../images/starry.png",
+        "title":"Starry",
+        "description":"Made with pure Bootstrap, it matches modern UI",
+        "link":"https://nosa-logistics.vercel.app"
+    }
+]
