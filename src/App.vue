@@ -115,7 +115,7 @@ onMounted(() => {
     }
     backdrop-filter: blur(20px);
     z-index: 100;
-    @apply w-full text-slate-500 bg-white border border-slate-300 max-w-sm sm:max-w-md rounded-full h-14 fixed right-0 left-0 mx-auto mt-10 shadow-lg flex items-center justify-center
+    @apply w-full text-slate-500 bg-white border border-slate-300 max-w-sm sm:max-w-md rounded-full h-11 sm:h-14 fixed right-0 left-0 mx-auto mt-8 sm:mt-10 shadow-lg flex items-center justify-center
 }
 .nav.new-bg{
     a{
