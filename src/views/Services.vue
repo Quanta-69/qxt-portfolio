@@ -16,7 +16,7 @@ import services from '../data/services.json'
             </div>
             <div class="outro">
                 <h1>Not sure what you need? Let’s chat and find the perfect solution for you!</h1>
-                <a href="https://wa.me/+2349234438269?text=Hi%20there%21%20I%27m%20messaging%20from%20your%20portfolio%20website%20and%20I%27m%20so%20excited%20to%20talk%20about%20a%20project%20with%20you.%20Can%27t%20wait%20to%20hear%20from%20you%21%20😊" target="_blank" rel="noopener noreferrer" ><button>chat me on whatsapp</button></a>
+                <a href="https://wa.me/+2349134438269?text=Hi%20there%21%20I%27m%20messaging%20from%20your%20portfolio%20website%20and%20I%27m%20so%20excited%20to%20talk%20about%20a%20project%20with%20you.%20Can%27t%20wait%20to%20hear%20from%20you%21%20😊" target="_blank" rel="noopener noreferrer" ><button>chat me on whatsapp</button></a>
             </div>
         </div>
     </section>
