@@ -152,6 +152,6 @@ footer{
 
     min-height: 30vh;
     background: #020344;
-    @apply flex items-center justify-center 
+    @apply flex items-center justify-center py-6 
 }
 </style>
