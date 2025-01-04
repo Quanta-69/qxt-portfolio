@@ -110,7 +110,7 @@ onMounted(() => {
     @apply text-white
     }
     a{
-        @apply text-base sm:text-2xl
+        @apply text-base sm:text-xl
     }
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(20px);
