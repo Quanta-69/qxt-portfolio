@@ -107,15 +107,15 @@ onMounted(() => {
     @apply flex items-center justify-center gap-3 font-medium text-base
     }
     .active{
-    @apply text-black
+    @apply text-white
     }
     a{
-        font-size: 18px;
-        line-height: 1.5;
+        @apply text-base sm:text-2xl
     }
+    background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(20px);
     z-index: 100;
-    @apply w-full text-slate-500 bg-white border border-slate-300 max-w-sm sm:max-w-md rounded-full h-11 sm:h-14 fixed right-0 left-0 mx-auto mt-8 sm:mt-10 shadow-lg flex items-center justify-center
+    @apply w-full text-gray-300 border border-slate-300 max-w-xs sm:max-w-md rounded-full h-11 sm:h-14 fixed right-0 left-0 mx-auto mt-6 sm:mt-10 shadow-lg flex items-center justify-center
 }
 .nav.new-bg{
     a{
